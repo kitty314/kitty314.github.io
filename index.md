@@ -16,6 +16,14 @@
     <meta name="twitter:url" content="https://kitty314.github.io/">
     <title>你在干嘛</title>
 </head>
+<body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://kitty314.github.io/">nekopara70622's homepage <del>fake</del></a></h1>
+        <p>kitty314 love love 🥰🥰🥰<br> If it looks like a neko, walks like a neko, and meows like a neko, then it probably is a neko.</p>
+        <p class="view"><a href="https://github.com/kitty314">View My GitHub Profile</a></p>
+      </header>
+
 
 # 你在干嘛
 > ### nekopara70622.github.io的副本
