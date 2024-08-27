@@ -14,6 +14,7 @@
     <meta property="twitter:image:height" content="100">
     <meta name="twitter:image" content="https://kitty314.github.io/favicon.png">
     <meta name="twitter:url" content="https://kitty314.github.io/">
+    <title>你在干嘛</title>
 </head>
 
 # 你在干嘛
