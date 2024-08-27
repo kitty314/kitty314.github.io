@@ -23,7 +23,8 @@
         <p>kitty314 love love 🥰🥰🥰<br> If it looks like a neko, walks like a neko, and meows like a neko, then it probably is a neko.</p>
         <p class="view"><a href="https://github.com/kitty314">View My GitHub Profile</a></p>
       </header>
-
+    </div>
+</body>
 
 # 你在干嘛
 > ### nekopara70622.github.io的副本
